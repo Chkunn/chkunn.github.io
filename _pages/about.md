@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chengkun Jin"
+title: "Chengkun Jin  金铖锟"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,8 +14,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 <br>
 <br>
 
-Research Interest
-======
+# Research Interest
 - Mentality
 - Higher education
 - Youth & adolescent
@@ -23,8 +22,7 @@ Research Interest
 <br>
 <br>
 
-Teaching
-======
+# Teaching
 I have extensive experience as a teaching assistant in social work, and social statistics. In this role, I deliver lectures, lead discussion sessions, and work closely with students on data projects.
 - **Social work theory** (2024 fall; 2025 fall)
 - **Applied Statistical Software and Quantitative Analysis** (2025 fall)
@@ -33,6 +31,5 @@ I have extensive experience as a teaching assistant in social work, and social s
 <br>
 <br>
 
-Contact
-======
+# Contact
 Feel free to reach out to me at kunn@zju.edu.cn.

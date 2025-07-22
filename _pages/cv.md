@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Sociology, Zhejiang University, 2024 - 2028 (expected)
+* M.S. in Political science, Nanchang University, 2021 - 2024
+* B.S. in English, Zhejiang Ocean University, 2017 - 2021
 
 Work experience
 ======
@@ -27,11 +27,6 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
 * Skill 1
