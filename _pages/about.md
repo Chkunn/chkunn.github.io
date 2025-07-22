@@ -7,24 +7,32 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Department of Sociology at Zhejiang University.My research interest centers on child and adolescent well-being, and social mentality. I am currently exploring my thesis topic, which might be the
+I am a PhD candidate in Department of Sociology at Zhejiang University. My research interest centers on the mental health outcomes of younger generations. I am currently exploring my dissertation topic, which might be the
 anxiety experienced by college students. 
 
-If you are interested in any aspect of me, I am always open to discussionsand collaborations. 
-
-Feel free to reach out to me at kunn@zju.edu.cn.
+If you are interested in any aspect of me, I am always open to discussions and collaborations. <br>
+<br>
+<br>
 
 Research Interest
 ======
-- Child &2 family social work
-- Social mentality
+- Mentality
+- Higher education
 - Youth & adolescent
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff.
+<br>
+<br>
 
-**Markdown generator**
+Teaching
+======
+I have extensive experience as a teaching assistant in social work, and social statistics. In this role, I deliver lectures, lead discussion sessions, and work closely with students on data projects.
+- **Social work theory** (2024 fall; 2025 fall)
+- **Applied Statistical Software and Quantitative Analysis** (2025 fall)
+- **Social policy analysis** (2025 fall)
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template.
+<br>
+<br>
+
+Contact
+======
+Feel free to reach out to me at kunn@zju.edu.cn.
