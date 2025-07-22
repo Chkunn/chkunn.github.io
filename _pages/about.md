@@ -7,14 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Department of Sociology at Zhejiang University. My research interest centers on the mental health outcomes of younger generations. I am currently exploring my dissertation topic, which might be the
-anxiety experienced by college students. 
+<br>
+<br>
+I am a PhD candidate in Department of Sociology at Zhejiang University. My research interest centers on the mental health outcomes of younger generations. I am currently exploring my dissertation topic, which might be the anxiety experienced by college students.<br>
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. <br>
 <br>
 <br>
 
 # Research Interest
+---
 - Mentality
 - Higher education
 - Youth & adolescent
@@ -23,6 +25,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 <br>
 
 # Teaching
+---
 I have extensive experience as a teaching assistant in social work, and social statistics. In this role, I deliver lectures, lead discussion sessions, and work closely with students on data projects.
 - **Social work theory** (2024 fall; 2025 fall)
 - **Applied Statistical Software and Quantitative Analysis** (2025 fall)
